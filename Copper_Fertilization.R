@@ -13,10 +13,10 @@ library(splines)
 
 ## setting wd
 getwd()
-setwd("~/Desktop/PollutionThreshold/")
+setwd("~/Desktop/PollutionThreshold/ThresholdsPollution/")
 
 ## importing data
-poll <- as.data.frame(read.csv("Master Pollution Data_9.30.csv", header=TRUE))
+poll <- as.data.frame(read.csv("Master Pollution Data_9.30.20.csv", header=TRUE))
 str(poll)
 
 ### changing things to numeric & character as needed
@@ -124,7 +124,7 @@ copper.fert2 <- as.data.frame(subset(copper.fert.noNAinStDev, CONTROL=="0"))
 copper.fert.cum <- ggplot(copper.fert2, 
                           aes(x = CumulativeExposure,
                               y = smd,
-                              color = Species,
+                             # color = Species,
                               ymin = smd-vmd,
                               ymax = smd+vmd)) + 
   geom_pointrange() + geom_smooth(method = lm) +
@@ -139,7 +139,7 @@ copper.fert.cum
 copper.fert.conc <- ggplot(copper.fert2, 
                            aes(x = level.converted.to.ug.L,
                                y = smd,
-                               color = Species,
+                             #  color = Species,
                                ymin = smd-vmd,
                                ymax = smd+vmd)) + 
   geom_pointrange() + geom_smooth(method = lm) +
@@ -163,7 +163,7 @@ copper.sett.noNAinStDev2 <- as.data.frame(subset(copper.sett.noNAinStDev, CONTRO
 copper.sett.cum <- ggplot(copper.sett.noNAinStDev2, 
                           aes(x = CumulativeExposure,
                               y = smd,
-                              color = RefIDExp,
+                            #  color = RefIDExp,
                               ymin = smd-vmd,
                               ymax = smd+vmd)) + 
   geom_pointrange() + geom_smooth(method = lm) +
@@ -188,7 +188,7 @@ copper.larvalsurvival.noNAinStDev2 <- as.data.frame(subset(copper.larvalsurvival
 copper.larvalsurvival.cum <- ggplot(copper.larvalsurvival.noNAinStDev2, 
                                     aes(x = CumulativeExposure,
                                         y = smd,
-                                        color = Species,
+                                       # color = Species,
                                         ymin = smd-vmd,
                                         ymax = smd+vmd)) + 
   geom_pointrange() + geom_smooth(method = lm) +
@@ -200,9 +200,6 @@ copper.larvalsurvival.cum <- ggplot(copper.larvalsurvival.noNAinStDev2,
   theme_classic() + scale_x_log10()
 copper.larvalsurvival.cum  
 #####
-
-
-
 copper.all.early
 copper.all.early.noNAinStDev <- copper.all.early[complete.cases(copper.all.early$Standardized.SD),]
 covar_copper.all.early <- by(copper.all.early.noNAinStDev, copper.all.early.noNAinStDev$RefIDExp, function(x) 
@@ -216,7 +213,7 @@ copper.all.early.noNAinStDev2 <- as.data.frame(subset(copper.all.early.noNAinStD
 copper.all.early.cum <- ggplot(copper.all.early.noNAinStDev2, 
                                aes(x = CumulativeExposure,
                                    y = smd,
-                                   color = Species,
+                                  # color = RefIDExp,
                                    ymin = smd-vmd,
                                    ymax = smd+vmd)) + 
   geom_pointrange() + geom_smooth(method = lm) +
@@ -227,8 +224,6 @@ copper.all.early.cum <- ggplot(copper.all.early.noNAinStDev2,
   geom_abline(intercept=0, slope=0) +
   theme_classic() + scale_x_log10()
 copper.all.early.cum
-
-
 
 
 ### model fitting 
