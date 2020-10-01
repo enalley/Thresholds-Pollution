@@ -58,6 +58,7 @@ copper.larvalsurvival <- poll %>% filter(Response.type == "Larval survival") %>%
   filter(Pollutant == "Copper")
 ##
 copper.all.early <- rbind(copper.fert, copper.sett, copper.larvalsurvival)
+copper.fertlarvsurv <- rbind(copper.fert, copper.larvalsurvival)
 
 #### ADULT ##
 copper.colsurv <- poll %>% filter(Response.type == "colony survival") %>% 
@@ -111,6 +112,7 @@ copper.fert.noNAinStDev <- copper.fert[complete.cases(copper.fert$Standardized.S
 copper.fert.noNAinStDev <- copper.fert.noNAinStDev[-c(98),] 
 
 ## & calculating Hedge's D & effect sizes
+#copper.fert3 <- copper.fert2[!(copper.fert2$RefIDExp == "Copper-08_2"),]
 covar_copper.fert <- by(copper.fert.noNAinStDev, copper.fert.noNAinStDev$RefIDExp, function(x) 
   covar.smd(Standardized.response.level, Standardized.SD, N.for.computing.average.1, 
             "smd", method="hedges", data = x))
@@ -201,19 +203,19 @@ copper.larvalsurvival.cum <- ggplot(copper.larvalsurvival.noNAinStDev2,
 copper.larvalsurvival.cum  
 #####
 copper.all.early
-copper.all.early.noNAinStDev <- copper.all.early[complete.cases(copper.all.early$Standardized.SD),]
-covar_copper.all.early <- by(copper.all.early.noNAinStDev, copper.all.early.noNAinStDev$RefIDExp, function(x) 
+copper.fertlarvsurv.noNAinStDev <- copper.fertlarvsurv[complete.cases(copper.fertlarvsurv$Standardized.SD),]
+covar_copper.fertlarvsurv <- by(copper.fertlarvsurv.noNAinStDev, copper.fertlarvsurv.noNAinStDev$RefIDExp, function(x) 
   covar.smd(Standardized.response.level, Standardized.SD, N.for.computing.average.1, 
             "smd", method="hedges", data = x))
-copper.all.early.noNAinStDev$smd <- unlist(lapply(covar_copper.all.early, function(x) x$y))
-copper.all.early.noNAinStDev$vmd <- unlist(lapply(covar_copper.all.early, function(x) x$v))
-copper.all.early.noNAinStDev
-copper.all.early.noNAinStDev2 <- as.data.frame(subset(copper.all.early.noNAinStDev, CONTROL=="0"))
+copper.fertlarvsurv.noNAinStDev$smd <- unlist(lapply(covar_copper.fertlarvsurv, function(x) x$y))
+copper.fertlarvsurv.noNAinStDev$vmd <- unlist(lapply(covar_copper.fertlarvsurv, function(x) x$v))
+copper.fertlarvsurv.noNAinStDev
+copper.fertlarvsurv.noNAinStDev2 <- as.data.frame(subset(copper.fertlarvsurv.noNAinStDev, CONTROL=="0"))
 #
-copper.all.early.cum <- ggplot(copper.all.early.noNAinStDev2, 
+copper.all.early.cum <- ggplot(copper.fertlarvsurv.noNAinStDev2, 
                                aes(x = CumulativeExposure,
                                    y = smd,
-                                  # color = RefIDExp,
+                                   color = Species,
                                    ymin = smd-vmd,
                                    ymax = smd+vmd)) + 
   geom_pointrange() + geom_smooth(method = lm) +
@@ -224,14 +226,21 @@ copper.all.early.cum <- ggplot(copper.all.early.noNAinStDev2,
   geom_abline(intercept=0, slope=0) +
   theme_classic() + scale_x_log10()
 copper.all.early.cum
-
+### combining is very muddied
 
 ### model fitting 
-plot(smd ~ CumulativeExposure, data = copper.fert2)
+## removing copper-08_2 bc only 1 entry
+copper.fert3 <- copper.fert2[!(copper.fert2$RefIDExp == "Copper-08_2"),]
+plot(smd ~ CumulativeExposure, data = copper.fert3)
 mod_copper.fert.1 <- mixmeta(smd ~ CumulativeExposure, S = vmd,
                              random =  ~ 1 | RefIDExp,
-                             data = copper.fert2, method = "ml")
+                             data = copper.fert3, method = "ml")
 summary(mod_copper.fert.1)
+### getting this error:
+### Error in chol.default(X[[i]], ...) : 
+### the leading minor of order 1 is not positive definite
+### online says that it means the model is overfit or there are missing values
+### BUT no missing values & changing to RefID only doesn't fix it
 hist(copper.fert2$smd)
 hist(copper.fert2$vmd)
 hist(copper.fert2$CumulativeExposure)
@@ -267,8 +276,46 @@ mod_copper.fert.d <- mixmeta(smd ~ CumulativeExposure,
                              random = ~ 1 | RefIDExp,
                              data=copper.fert2, method="ml", #using dataset without controls
                              control=list(addSlist=newlist_FERT))
+##
+#Code for covariance matrix to include for addSlist for Ref/Comparison
+## first for RefID only 
+newlist_FERT2 <- list(NA) #collects the list of covariance matrices for the block diag matrix by reference for the nested hierarchial ref/comparison
+templist_FERT <- list(NA) #holds temp list of covariance matrices associated with each reference
+templist_FERT2 <-list(NA)
+reflista <- copper.fert2 %>% distinct(RefID, RefIDExp)
+reflist <- reflista[,1]
+reflist
+for (i in seq(1,length(unique(reflista$RefID))))  {
+  #pull the elements from covar_copper.fert that are all from the same reference [i]
+  templist_FERT[i] <-list(covar_copper.fert[reflist==unique(reflista$RefID)[i]])
+  for (j in seq(1,length(templist_FERT[[i]]))) {
+    #for each comparison in the reference, pull out the covar matrices (element $S) and put in into templist_FERT2
+    templist_FERT2[j] <- list(templist_FERT[[i]][[j]]$S)
+  }
+  #turn list of covars from all comparison in one reference into block diag matrix
+  newlist_FERT2[i] <- list(bdiagMat(templist_FERT2))
+  templist_FERT2 <- list(NA)
+}
+###
+## now for RefIDExp
+newlist_FERT3 <- list(NA) #collects the list of covariance matrices for the block diag matrix by reference for the nested hierarchial Ref_name/Comparison
+templist_FERT3 <- list(NA) #holds temp list of covariance matrices associated with each reference
+templist_FERT4 <-list(NA)
+reflist2 <- reflista[,2]
+for (i in seq(1,length(unique(reflista$RefIDExp))))  {
+  #pull the elements from covar_copper.fert that are all from the same reference [i]
+  templist_FERT3[i] <-list(covar_copper.fert[reflist2==unique(reflista$RefIDExp)[i]])
+  for (j in seq(1,length(templist_FERT3[[i]]))) {
+    #for each comparison in the reference, pull out the covar matrices (element $S) and put in into templist_FERT4
+    templist_FERT4[j] <- list(templist_FERT3[[i]][[j]]$S)
+  }
+  #turn list of covars from all comparison in one reference into block diag matrix
+  newlist_FERT3[i] <- list(bdiagMat(templist_FERT4))
+  templist_FERT4 <- list(NA)
+}
 
-
-#### testing github ssh 
-#### testing again
-### 
+### models
+mod.copperfert <- mixmeta(smd ~ CumulativeExposure,
+                            random = ~ CumulativeExposure | RefID/RefIDExp,
+                            data=copper.fert2, method="ml", #using dataset without controls
+                            control=list(addSlist=newlist_FERT3))
