@@ -16,7 +16,7 @@ getwd()
 setwd("~/Desktop/PollutionThreshold/")
 
 ## importing data
-poll <- as.data.frame(read.csv("Master Pollution Data_9.23.csv", header=TRUE))
+poll <- as.data.frame(read.csv("Master Pollution Data_9.30.csv", header=TRUE))
 str(poll)
 
 ### changing things to numeric & character as needed
