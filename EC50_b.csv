@@ -1,0 +1,1276 @@
+﻿Study ID(s),Article Authors,"Publication 
+Year",Species Codes,"Ocean/
+Region",Study site,Pollutant,Dose range (ug/L),Pollutant exposure duration,Pollutant exposure duration (in hrs),Coral response(s) measured,Threshold Estimate,Threshold Value,Value,Value_est,SD,SE,CI,How threshold was estimated
+"2,4-D-02",Sabdono et al. ,1998,GALA,Indo-Pacific/Java Sea,Lab,"2,4-D","100 - 1,000,000",Short,,AM,LC50,50,10.26,10.26,,,,"SPS Procedure Nested Design, probit analysis"
+"2,4-D-02",Sabdono et al. ,1998,PORI,Indo-Pacific/Java Sea,Lab,"2,4-D","100 - 1,000,000",Short,,AM,LC50,50,23.2,23.2,,,,"SPS Procedure Nested Design, probit analysis"
+Aluminum-01,Negri et al. ,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Aluminum,"5.68 - 9,700",Short,,FE,EC10,10,2793,2793,,,,Sigmoidal regressions
+Aluminum-01,Negri et al. ,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Aluminum,"5.68 - 9,700",Short,,FE,EC50,50,2997,2997,,,1206–4816,Sigmoidal regressions
+Aluminum-01,Negri et al. ,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Aluminum,"5.68 - 9,700",Short,,SE,EC10,10,1263,1263,,,861–1694,Sigmoidal regressions
+Aluminum-01,Negri et al. ,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Aluminum,"5.68 - 9,700",Short,,SE,EC50,50,1945,1945,,,1641–2252,Sigmoidal regressions
+Ametryn-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Ametryn,"0.2 - 1,000",Short,,EQY,EC25,25,0.71,0.71,0.03,,,Linear interpolation method
+Ametryn-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Ametryn,"0.2 - 1,000",Short,,EQY,EC50,50,1.7,1.7,0.1,,,Linear interpolation method
+Ametryn-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Ametryn,"0.2 - 1,000",Short,,EQY,NOEC,,<0.3,0.29,,,,Linear interpolation method
+Ametryn-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Ametryn,"0.2 - 1,000",Short,,EQY,LOEC,,0.3,0.3,,,,Linear interpolation method
+Atrazine-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Atrazine,"0.3 - 1,000",Short,,MQY,EC10,10,106,106,,,,sigmoidal four-parameter curve fitting 
+Atrazine-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Atrazine,"0.3 - 1,000",Short,,MQY,LOEC,,100,100,,,,sigmoidal four-parameter curve fitting 
+Atrazine-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Atrazine,"0.3 - 1,000",Short,,EQY,EC10,10,8.6,8.6,,,,sigmoidal four-parameter curve fitting 
+Atrazine-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Atrazine,"0.3 - 1,000",Short,,EQY,EC50,50,47,47,,,,sigmoidal four-parameter curve fitting 
+Atrazine-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Atrazine,"0.3 - 1,000",Short,,EQY,LOEC,,10,10,,,,sigmoidal four-parameter curve fitting 
+Atrazine-02,Jones et al.,2003,MDIG,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,EC25,25,25.5,25.5,0.6,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,MDIG,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,EC50,50,88.2,88.2,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,MDIG,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,NOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,MDIG,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,LOEC,,3,3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,"
+AMUR",Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,EC25,25,14.5,14.5,0.3,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,"
+AMUR",Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,EC50,50,37,37,0.2,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,"
+AMUR",Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,NOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,"
+AMUR",Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,LOEC,,3,3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,PCYL,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,EC25,25,22.1,22.1,0.5,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,PCYL,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,EC50,50,67.2,67.2,0.9,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,PCYL,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,NOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-02,Jones et al.,2003,PCYL,Pacific/GBR South,,Atrazine,1 - 100,Short,,EQY,LOEC,,3,3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Atrazine-03,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Atrazine,"0.2 - 1,000",Short,,EQY,EC25,25,15,15,1.2,,,Linear interpolation method
+Atrazine-03,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Atrazine,"0.2 - 1,000",Short,,EQY,EC50,50,45,45,3,,,Linear interpolation method
+Atrazine-03,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Atrazine,"0.2 - 1,000",Short,,EQY,NOEC,,1,1,,,,Linear interpolation method
+Atrazine-03,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Atrazine,"0.2 - 1,000",Short,,EQY,LOEC,,3,3,,,,Linear interpolation method
+Cadmium-02,"Reichelt-Brushett 
+and Harrison ",2005,ATEN,Pacific/GBR South,Lab,Cadmium,"13 - 10,018",Short,,FS,NOEC,,2000,2000,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Carbaryl-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Carbaryl,0.1 - 300,Short,,FS,EC50,50,">30
+","31
+",,,,"ANOVA, sigmoidal regressions"
+Carbaryl-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Carbaryl,0.1 - 300,Short,,FS,LOEC,,">30
+","31
+",,,,"ANOVA, sigmoidal regressions"
+Carbaryl-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Carbaryl,0.1 - 300,Short,,SE,EC50,50,1,1,,2,,"ANOVA, sigmoidal regressions"
+Carbaryl-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Carbaryl,0.1 - 300,Short,,SE,LOEC,,3,3,,,,"ANOVA, sigmoidal regressions"
+Chlorpyrifos-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Chlorpyrifos,0.1 - 300,Short,,FS,EC50,50,">30
+","31
+",,,,"ANOVA, sigmoidal regressions"
+Chlorpyrifos-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Chlorpyrifos,0.1 - 300,Short,,FS,LOEC,,">30
+","31
+",,,,"ANOVA, sigmoidal regressions"
+Chlorpyrifos-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Chlorpyrifos,0.1 - 300,Short,,SE,EC50,50,1,1,,2,,"ANOVA, sigmoidal regressions"
+Chlorpyrifos-02,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Chlorpyrifos,0.1 - 300,Short,,SE,LOEC,,1,1,,,,"ANOVA, sigmoidal regressions"
+CO-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,"Chlorpyrifos-
+oxon",0.1 - 300,Short,,FS,EC50,50,">30
+","31
+",,,,"ANOVA, sigmoidal regressions"
+CO-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,"Chlorpyrifos-
+oxon",0.1 - 300,Short,,FS,LOEC,,">30
+","31
+",,,,"ANOVA, sigmoidal regressions"
+CO-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,"Chlorpyrifos-
+oxon",0.1 - 300,Short,,SE,EC50,50,0.39,0.39,,0.01,,"ANOVA, sigmoidal regressions"
+CO-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,"Chlorpyrifos-
+oxon",0.1 - 300,Short,,SE,LOEC,,0.3,0.3,,,,"ANOVA, sigmoidal regressions"
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,24,LSW,EC50,50,66.8,66.8,,1.5,62.6-70,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,24,LSW,LC10,10,49.2,49.2,,,9.27-74.9,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,24,LSW,LC50,50,133.3,133.3,,,93.5-263.4,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,24,LS,EC50,50,66.8,66.8,,,,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,24,LS,LC50,50,133.3,133.3,,,,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,48,LSW,EC50,50,46.2,46.2,,10.2,17-69.3,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,48,LSW,LC10,10,23.9,23.9,,,0.11-48.2,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,48,LSW,LC50,50,96.5,96.5,,,47.5-204.4,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,48,LS,EC50,50,46.9,46.9,,,,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,48,LS,LC50,50,96.5,96.5,,,,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,96,LSW,EC50,50,56.7,56.7,,2.7,47.8-65.1,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,96,LSW,LC10,10,25.5,25.5,,,0.48-48.7,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,96,LSW,LC50,50,93.3,93.3,,,48.7-171.2,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,96,LS,EC50,50,56.7,56.7,,,,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-01,Kwok and Ang,2013,PLAC,Pacific/Hong Kong,Lab,Copper,40 - 200,Short ,96,LS,LC50,50,63.3,63.3,,,,Probit analysis program & linear interpolation method using the Inhibition Concentration programme from the EPA
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,ALON,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,EC50,50,15.2,15.2,,,12.0–19.2,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,ALON,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,NOEC,,15.3,15.3,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,ATEN,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,EC50,50,39.7,39.7,,,36.0–43.7,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,ATEN,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,NOEC,,33.5,33.5,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,GASP,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,EC50,50,18.5,18.5,,,12.0–19.2,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,GASP,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,NOEC,,12.8,12.8,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,GRET,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,EC50,50,24.7,24.7,,,15.5–30.0,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-02,"Reichelt-Brushett
+and Harrison",2005,GRET,Pacific/GBR South,Lab,Copper,2 - 250,Short,,FS,NOEC,,10,10,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Copper-03,Puisay et al. ,2015,ACYT,Pacific/Society Islands,Lab,Copper,10 - 220,Short,,FS,EC50,50,69.4,69.4,4.8,,,"ANOVA, post-hoc Tukey"
+Copper-03,Puisay et al. ,2015,APUL,Pacific/Society Islands,Lab,Copper,10 - 220,Short,,FS,EC50,50,75.4,75.4,6.4,,,"ANOVA, post-hoc Tukey"
+Copper-04,Kwok et al.,2016,PLAC,Pacific/Hong Kong,Lab,Copper,"10 - 1,000",Short/Long,,FS,EC50,50,>100,101,,,,"ANOVA, post-hoc Tukey (if normal), nonparametric Friedman and Mann-Whitney U (if not normal)"
+Copper-04,Kwok et al.,2016,PLAC,Pacific/Hong Kong,Lab,Copper,"10 - 1,000",Short/Long,,LSW,EC50,50,45.1,45.1,,2.91,,"ANOVA, post-hoc Tukey (if normal), nonparametric Friedman and Mann-Whitney U (if not normal)"
+Copper-04,Kwok et al.,2016,PLAC,Pacific/Hong Kong,Lab,Copper,"10 - 1,000",Short/Long,,LS,LC50,50,107,107,,,,"ANOVA, post-hoc Tukey (if normal), nonparametric Friedman and Mann-Whitney U (if not normal)"
+Copper-05,Victor and Richmond,2005,ASUR,Pacific/Marianas ,Lab,Copper,10 - 200,Short,5,FS,EC50,50,45.2,45.2,,,,"calculated using  Number Crunching Statistical Software (NCSS), 2000"
+Copper-05,Victor and Richmond,2005,ASUR,Pacific/Marianas ,Lab,Copper,10 - 200,Short,12,FS,EC50,50,11.4,11.4,,,,"calculated using  Number Crunching Statistical Software (NCSS), 2000"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,4-Jun,FS,EC10,10,15.1,15.1,,1.1,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,4-Jun,FS,EC20,20,19.4,19.4,,1.2,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,4-Jun,FS,EC50,50,31.7,31.7,,1.2,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,5-Jun,FS,EC10,10,9,9,,1,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,5-Jun,FS,EC20,20,11.3,11.3,,0.9,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,5-Jun,FS,EC50,50,17.5,17.5,,0.8,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,3-Jul,FS,EC10,10,10.4,10.4,,1.2,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,3-Jul,FS,EC20,20,12.2,12.2,,1.1,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-06,H√©douin and Gates ,2013,MCAPI,Pacific/Hawai ªi East,Lab,Copper,10 - 500,Short,3-Jul,FS,EC50,50,16.6,16.6,,0.8,,"drc general model-fitting function, ANOVA, post-hoc Tukey"
+Copper-07,Gissi et al.,2017,PDAE,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,EC5,5,13,13,,,15-Oct,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,PDAE,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,EC10,10,16,16,,,14-18,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,PDAE,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,EC50,50,28,28,,,27-30,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,PDAE,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,NOEC,,9,9,,,,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,AASP,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,EC5,5,3.3,3.3,,,0.3-6.2,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,AASP,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,EC10,10,5.8,5.8,,,1.6-10,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,AASP,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,EC50,50,78,78,,,36-121,"drc model, mixtox"
+Copper-07,Gissi et al.,2017,AASP,Pacific/GBR South,Lab,Copper,Jan-71,Short,,FS,NOEC,,<6,5,,,,"drc model, mixtox"
+Copper-08,"Reichelt-Brushett
+and Hudspith",2016,PDAE,Pacific/GBR South,Lab,Copper,7 - 111,Short,,FS,EC10,10,1.4,1.4,,,,Probit analysis
+Copper-08,"Reichelt-Brushett
+and Hudspith",2016,PDAE,Pacific/GBR South,Lab,Copper,7 - 111,Short,,FS,EC50,50,33,33,,,30 - 37,Probit analysis
+Copper-08,"Reichelt-Brushett
+and Hudspith",2016,PDAE,Pacific/GBR South,Lab,Copper,7 - 111,Short,,FS,EC90 ,90,65,65,,,58 - 75,Probit analysis
+Copper-09,Negri & Heyward ,2001,AMIL,Pacific/Ningaloo Reef,Lab,Copper,"0.1 - 6,263",Short,,FS,EC50,50,17.4,17.4,,1.1,,three-parameter sigmoidal equation in Sigmaplot
+Copper-09,Negri & Heyward ,2001,AMIL,Pacific/Ningaloo Reef,Lab,Copper,"0.1 - 6,263",Short,,SE,EC50,50,110,110,,20,,three-parameter sigmoidal equation in Sigmaplot
+Copper-10,"Reichelt-Brushett 
+and Harrison",1999,GASP,"Pacific/GBR
+North-Central",Lab,Copper,2 - 200,Short,,FS,EC50,50,14.5,14.5,,,, ªtrimmed Spearman-Karber ª method 
+Copper-11,H√©douin et al. ,2016,PDAM,Pacific/Hawai ªi East,Lab,Copper,1.5 - 434,Short,96 winter,AM,LC50,50,251,251,,,,"drc model, ANOVA"
+Copper-11,H√©douin et al. ,2016,PDAM,Pacific/Hawai ªi East,Lab,Copper,1.5 - 434,Short,96 summer,AM,LC50,50,175,175,,,,"drc model, ANOVA"
+Copper-11,H√©douin et al. ,2016,PDAM,Pacific/Hawai ªi East,Lab,Copper,1.5 - 434,Short,96,LS,LC50,50,198,198,,,,"drc model, ANOVA"
+Copper-18,"Negri and 
+Hoogenboom",2011,AMIL,"Pacific/GBR
+North-Central",Lab,Copper,0.37 - 72,Short,,SE,EC50,50,26.03,26.03,,0.98,,Nonlinear regression
+Copper-18,"Negri and 
+Hoogenboom",2011,ATEN,"Pacific/GBR
+North-Central",Lab,Copper,0.37 - 72,Short,,SE,EC50,50,32.1,32.1,,0.86,,Nonlinear regression
+Copper-19,"Reichelt-Brushett
+and Harrison ",2000,ATEN,"Pacific/GBR
+North-Central",Lab,Copper,0.62 - 200,Short,48,SE,EC50,50,35,35,,,32-37,spearman-karber method
+Copper-19,"Reichelt-Brushett
+and Harrison ",2000,ATEN,"Pacific/GBR
+North-Central",Lab,Copper,0.62 - 200,Short,48,SE,NOEC,,20,20,,,,spearman-karber method
+Copper-27,"Reichelt-Brushett
+and Harrison ",2004,PDAE,"Pacific/GBR
+North-Central",Lab/Field,Copper,1.2 - 500,Short,24,LSW,EC50,50,36,36,,,33.33 - 38.48,Spearman-Karber method
+Copper-27,"Reichelt-Brushett
+and Harrison ",2004,GASP,"Pacific/GBR
+North-Central",Lab/Field,Copper,1.2 - 500,Short,48,LSW,EC50,50,22,22,,,20.81 - 23.06,Spearman-Karber method
+Copper-27,"Reichelt-Brushett
+and Harrison ",2004,GASP,"Pacific/GBR
+North-Central",Lab/Field,Copper,1.2 - 500,Short,48,LSW,NOEC,,20,20,,,,Spearman-Karber method
+Copper-27,"Reichelt-Brushett
+and Harrison ",2004,GASP,"Pacific/GBR
+North-Central",Lab/Field,Copper,1.2 - 500,Short,72 with 5 day old larvae,LS,LC50,50,34,34,,,18.75 - 61.94,Spearman-Karber method
+Copper-27,"Reichelt-Brushett
+and Harrison ",2004,GASP,"Pacific/GBR
+North-Central",Lab/Field,Copper,1.2 - 500,Short,72 with 6 day old larvae,LS,LC50,50,82,82,,,53.98 - 123.44,Spearman-Karber method
+Copper-28,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Copper,"10 - 55,800",Short,,FS,EC10,10,0.005,0.005,,,n.c.–0.016,"ANOVA, Probit analysis"
+Copper-28,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Copper,"10 - 55,800",Short,,FS,EC50,50,0.058,0.058,,,0.051–0.066,"ANOVA, Probit analysis"
+Copper-28,Leigh-Smith et al. ,2017,PDAE,Pacific/GBR South,Lab,Copper,"10 - 55,800",Short,,FS,EC50,50,0.031,0.031,,,0.026–0.036,"ANOVA, Probit analysis"
+Diuron-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,EC25,25,0.85,0.85,0.03,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,EC50,50,2.3,2.3,0.04,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,NOEC,,"<0.3
+","0.29
+",,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,LOEC,,0.3,0.3,,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,EC25,25,1.2,1.2,0.07,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,EC50,50,2.7,2.7,0.07,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,NOEC,, <0.3,0.29,,,,Linear interpolation method
+Diuron-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.2 - 1,000",Short,10,EQY,LOEC,,0.3,0.3,,,,Linear interpolation method
+Diuron-04,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Diuron,"0.3 - 1,000",Short,,MQY,EC10,10,7.5,7.5,,,,sigmoidal four-parameter curve fitting 
+Diuron-04,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Diuron,"0.3 - 1,000",Short,,MQY,LOEC,,10,10,,,,sigmoidal four-parameter curve fitting 
+Diuron-04,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Diuron,"0.3 - 1,000",Short,,EQY,EC10,10,0.48,0.48,,,,sigmoidal four-parameter curve fitting 
+Diuron-04,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Diuron,"0.3 - 1,000",Short,,EQY,EC50,50,2.9,2.9,,,,sigmoidal four-parameter curve fitting 
+Diuron-04,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Diuron,"0.3 - 1,000",Short,,EQY,LOEC,,1,1,,,,sigmoidal four-parameter curve fitting 
+Diuron-05,Jones et al.,2003,MDIG,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,EC25,25,2.2,2.2,0.1,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,MDIG,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,EC50,50,5.9,5.9,0.2,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,MDIG,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,NOEC,,0.3,0.3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,MDIG,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,LOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,EC25,25,2,2,0.1,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,EC50,,5.1,5.1,0.4,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,,EQY,NOEC,,0.3,0.3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,AMUR,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,,EQY,LOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,,EQY,NOEC,,0.3,0.3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,,EQY,LOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,,EQY,EC25,25,1.5,1.5,0.1,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,SHYS,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,,EQY,EC50,50,3.7,3.7,0.2,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,PCYL,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,EC25,25,1.6,1.6,0.1,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,PCYL,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,EC50,50,4.3,4.3,0.4,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,PCYL,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,NOEC,,0.3,0.3,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Diuron-05,Jones et al.,2003,PCYL,Pacific/GBR South,Lab,Diuron,"0.1 - 1,000",Short,10 hours,EQY,LOEC,,1,1,,,,maximum likelihood regression using the probit transformation (probit analysis).
+Endosulfan-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Endosulfan,0.1 - 300,Short,,FS,EC50,,>30,31,,,,"ANOVA, sigmoidal regressions"
+Endosulfan-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Endosulfan,0.1 - 300,Short,,FS,LOEC,,>30,31,,,,"ANOVA, sigmoidal regressions"
+Endosulfan-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Endosulfan,0.1 - 300,Short,,SE,EC50,,1,1,,3,,"ANOVA, sigmoidal regressions"
+Endosulfan-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Endosulfan,0.1 - 300,Short,,SE,LOEC,,1,1,,,,"ANOVA, sigmoidal regressions"
+Gallium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Gallium,"0.37 - 11,200",Short,,FS,EC10,,3205,3205,,,3050–3646,Sigmoidal regressions
+Gallium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Gallium,"0.37 - 11,200",Short,,FS,EC50,,3430,3430,,,3286–3746,Sigmoidal regressions
+Gallium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Gallium,"0.37 - 11,200",Short,,SE,EC10,,1162,1162,,,692–1819,Sigmoidal regressions
+Gallium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Gallium,"0.37 - 11,200",Short,,SE,EC50,,3566,3566,,,3163–4801,Sigmoidal regressions
+Hexazinone-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Hexazinone,"0.3 - 1,000",Short,,MQY,EC10,,3.1,3.1,,,,sigmoidal four-parameter curve fitting 
+Hexazinone-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Hexazinone,"0.3 - 1,000",Short,,MQY,EC50,,22,22,,,,sigmoidal four-parameter curve fitting 
+Hexazinone-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Hexazinone,"0.3 - 1,000",Short,,MQY,LOEC,,3,3,,,,sigmoidal four-parameter curve fitting 
+Hexazinone-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Hexazinone,"0.3 - 1,000",Short,,EQY,EC10,,3.3,3.3,,,,sigmoidal four-parameter curve fitting 
+Hexazinone-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Hexazinone,"0.3 - 1,000",Short,,EQY,EC50,,14,14,,,,sigmoidal four-parameter curve fitting 
+Hexazinone-01,Negri et al.,2011,AMIL,"Pacific/GBR
+North Central",Lab,Hexazinone,"0.3 - 1,000",Short,,EQY,LOEC,,3,3,,,,sigmoidal four-parameter curve fitting 
+Hexazinone-02,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Hexazinone,"0.2 - 1,000",Short,10,EQY,EC25,,4.3,4.3,1,,,Linear interpolation method
+Hexazinone-02,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Hexazinone,"0.2 - 1,000",Short,10,EQY,EC50,,8.8,8.8,1,,,Linear interpolation method
+Hexazinone-02,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Hexazinone,"0.2 - 1,000",Short,10,EQY,NOEC,,1,1,,,,Linear interpolation method
+Hexazinone-02,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Hexazinone,"0.2 - 1,000",Short,10,EQY,LOEC,,3,3,,,,Linear interpolation method
+Ioxnynil-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Ioxnynil,"0.2 - 1,000",Short,10,EQY,EC25,,>1000,1001,,,,Linear interpolation method
+Ioxnynil-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Ioxnynil,"0.2 - 1,000",Short,10,EQY,EC50,,>1000,1001,,,,Linear interpolation method
+Ioxnynil-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Ioxnynil,"0.2 - 1,000",Short,10,EQY,NOEC,,>1000,1001,,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,EC25,,0.3,0.3,0.03,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,EC50,,0.7,0.7,0.03,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,NOEC,,<0.3,0.29,,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,SHYS,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,LOEC,,0.3,0.3,,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,EC25,,0.5,0.5,0.05,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,EC50,,0.9,0.9,0.2,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,NOEC,,<0.3,0.29,,,,Linear interpolation method
+Irgarol-01,Jones and Kerswell,2003,AMUR,Pacific/GBR South,Lab,Irgarol,"0.2 - 1,000",Short,10,EQY,LOEC,,0.3,0.3,,,,Linear interpolation method
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 1,FS,EC10,,26,26,,,21–36,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 1,FS,EC50,,66,66,,,52–95,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 1,FS,NOEC,,3,3,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 1,FS,LOEC,,25.3,25.3,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 2,FS,EC10,,12,12,,,5–17,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 2,FS,EC50,,40,40,,,35–47,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 2,FS,NOEC,,2.185,2.185,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 2,FS,LOEC,,27.4,27.4,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA ,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 3,FS,EC10,,21,21,,,18–24,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA ,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 3,FS,EC50,,55,55,,,51–59,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA ,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 3,FS,NOEC,,2.185,2.185,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,ASPA ,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,experiment 3,FS,LOEC,,27.4,27.4,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,PDAE,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,,FS,EC50,,25,25,,,21–29,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,PDAE,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,,FS,NOEC,,2.75,2.75,,,,"ANOVA, Probit analysis"
+Iron-02,Leigh-Smith et al. ,2017,PDAE,Pacific/GBR South,Lab,Iron,"10 - 55,800",Short,,FS,LOEC,,27.2,27.2,,,,"ANOVA, Probit analysis"
+Lead-01,"Reichelt-Brushett 
+and Harrison ",2004,PDAE,"Pacific/GBR
+North-Central",Lab/Field,Lead,"10 - 20,000",Short,24,LSW,EC50,,1950,1950,,,1750 - 2180,Spearman-Karber method
+Lead-01,"Reichelt-Brushett 
+and Harrison ",2004,GASP,"Pacific/GBR
+North-Central",Lab/Field,Lead,"10 - 20,000",Short,72,LSW,EC50,,2230,2230,,,1940 - 2560,Spearman-Karber method
+Lead-01,"Reichelt-Brushett 
+and Harrison ",2004,GASP,"Pacific/GBR
+North-Central",Lab/Field,Lead,"10 - 20,000",Short,72,LSW,LC50,,9890,9890,,,"5,370 - 17,080",Spearman-Karber method
+Lead-02,H√©douin et al. ,2016,PDAM,Pacific/Hawai ªi East,Lab,Lead,"0.5 - 2,040",Short,96 hours winter,AM,LC50,,477,477,,,,"drc model, ANOVA"
+Lead-02,H√©douin et al. ,2016,PDAM,Pacific/Hawai ªi East,Lab,Lead,"0.5 - 2,040",Short,96 hours summer,AM,LC50,,742,742,,,,"drc model, ANOVA"
+Lead-02,H√©douin et al. ,2016,PDAM,Pacific/Hawai ªi East,Lab,Lead,"0.5 - 2,040",Short,96,LS,LC50,,681,681,,,,"drc model, ANOVA"
+Lead-03,"Reichelt-Brushett 
+and Harrison ",2005,GASP,Pacific/GBR South,Lab,Lead,"2 - 9,577",Short,,FS,EC50,,2467,2467,,,691–8807,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Lead-03,"Reichelt-Brushett 
+and Harrison ",2005,GASP,Pacific/GBR South,Lab,Lead,"2 - 9,577",Short,,FS,NOEC,,5455,5455,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Lead-03,"Reichelt-Brushett 
+and Harrison ",2005,ATEN,Pacific/GBR South,Lab,Lead,"2 - 9,577",Short,,FS,EC50,,1801,1801,,,1352–2400,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Lead-03,"Reichelt-Brushett 
+and Harrison ",2005,ATEN,Pacific/GBR South,Lab,Lead,"2 - 9,577",Short,,FS,NOEC,,790,790,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Lead-03,"Reichelt-Brushett 
+and Harrison ",2005,ALON,Pacific/GBR South,Lab,Lead,"2 - 9,577",Short,,FS,EC50,,1453,1453,,,1156–1780,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Lead-03,"Reichelt-Brushett 
+and Harrison ",2005,ALON,Pacific/GBR South,Lab,Lead,"2 - 9,577",Short,,FS,NOEC,,451,451,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,EC10,,15,15,,,0–38,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,EC50,,42,42,,,38–46,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,NOEC,,72,72,,,,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,LOEC,,108,108,,,,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,PDAE,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,EC10,,43,43,,,33–58,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,PDAE,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,EC50,,84,84,,,70–113,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,PDAE,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,NOEC,,54,54,,,,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,PDAE,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,FS,LOEC,,71,71,,,,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,LS,NOEC,,17,17,,,,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,LS,LOEC,,36,36,,,,"Probit regression analysis, ANOVA"
+Manganese-01,Summer et al. ,2019,ASPA,Pacific/GBR South,Lab,Manganese,"1 - 161,100",Short,,LS,LC50,,27,27,,,23–32,"Probit regression analysis, ANOVA"
+MEMC-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,MEMC,0.1 - 300,Short,,FS,EC50,,1.68,1.68,,0.04,,"ANOVA, sigmoidal regressions"
+MEMC-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,MEMC,0.1 - 300,Short,,FS,LOEC,,1,1,,,,"ANOVA, sigmoidal regressions"
+MEMC-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,MEMC,0.1 - 300,Short,,SE,EC50,,2.5,2.5,,0.3,,"ANOVA, sigmoidal regressions"
+MEMC-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,MEMC,0.1 - 300,Short,,SE,LOEC,,1,1,,,,"ANOVA, sigmoidal regressions"
+Nickel-03,Gissi et al. ,2017,AASP,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC50,,>9220,9221,,,,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,AASP,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,NOEC,,<280,279,,,,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,ADIG,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC5,,1680,1680,,,1260-2110,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,ADIG,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC10,,2000,2000,,,1580-2420,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,ADIG,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC50,,4350,4350,,,3830-4870,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,ADIG,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,NOEC,,940,940,,,,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,PDAE,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC5,,>4610,4611,,,,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,PDAE,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC10,,>4610,4611,,,,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,PDAE,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,EC50,,>4610,4611,,,,"drc model, Weibull model, mixtox"
+Nickel-03,Gissi et al. ,2017,PDAE,Pacific/GBR South,Lab,Nickel,"1 - 9,356",Short,,FS,NOEC,,920,920,,,,"drc model, Weibull model, mixtox"
+Nickel-04,"Reichelt-Brushett
+and Hudspith",2016,PDAE,Pacific/GBR South,Lab,Nickel,"65 - 4,621",Short,,FS,EC50,,1420,1420,,,1160 - 1800,Probit analysis
+Nickel-04,"Reichelt-Brushett
+and Hudspith",2016,PDAE,Pacific/GBR South,Lab,Nickel,"65 - 4,621",Short,,FS,EC90 ,,3360,3360,,,2780 - 4310,Probit analysis
+PAH-01,Mart√≠nez et al.,2007,PDIV,Atlantic/Yucatan,Lab,Fluoranthene,15 - 60,Short,,TM,LC50,,31.4,31.4,,,22.4 - 44.9,Multi-Method LC50 Program and the PROBIT method.
+PAH-03,Renegar et al. ,2017,PDIV,"Atlantic/Bahamas and 
+Florida Keys",Lab,1-Methylnaphthalene,"500 - 25,000",Short,,TM,EC50,,7442,7442,,,4905–11290,"graphical method, Graph Pad Prism"
+PAH-03,Renegar et al. ,2017,PDIV,"Atlantic/Bahamas and 
+Florida Keys",Lab,1-Methylnaphthalene,"500 - 25,000",Short,,AM,LC50,,12123,12123,,,,"graphical method, Graph Pad Prism"
+PAH-04,Overmans et al. ,2018,ATEN,"Pacific/GBR
+North-Central",Lab,Anthracene,9.4 - 900,Short,,SE,EC50,,45,45,,,18–126,non-linear inhibitor versus response curve with variable slope (four parameters) using least squares (ordinary) fit
+PAH-04,Overmans et al. ,2018,ATEN,"Pacific/GBR
+North-Central",Lab,Anthracene,9.4 - 900,Short,,LS,LC50,,44,44,,,28–69,non-linear inhibitor versus response curve with variable slope (four parameters) using least squares (ordinary) fit
+PAH-04,Overmans et al. ,2018,ATEN,"Pacific/GBR
+North-Central",Lab,Phenanthrene,9.4 - 900,Short,,SE,EC50,,91,91,,,42–204,non-linear inhibitor versus response curve with variable slope (four parameters) using least squares (ordinary) fit
+PAH-04,Overmans et al. ,2018,ATEN,"Pacific/GBR
+North-Central",Lab,Phenanthrene,9.4 - 900,Short,,LS,LC50,,> 872,873,,,,non-linear inhibitor versus response curve with variable slope (four parameters) using least squares (ordinary) fit
+Permethrin-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Permethrin,0.1 - 300,Short,,FS,EC50,,>30,31,,,,"ANOVA, sigmoidal regressions"
+Permethrin-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Permethrin,0.1 - 300,Short,,"
+SE",EC50,,1,1,,1,,"ANOVA, sigmoidal regressions"
+Permethrin-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Permethrin,0.1 - 300,Short,,FS,LOEC,,>30,31,,,,"ANOVA, sigmoidal regressions"
+Permethrin-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Permethrin,0.1 - 300,Short,,"
+SE",LOEC,,1,1,,,,"ANOVA, sigmoidal regressions"
+Profenofos-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Profenofos,0.1 - 300,Short,,FS,EC50,,>30,31,,,,"ANOVA, sigmoidal regressions"
+Profenofos-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Profenofos,0.1 - 300,Short,,FS,LOEC,,>30,31,,,,"ANOVA, sigmoidal regressions"
+Profenofos-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Profenofos,0.1 - 300,Short,,SE,EC50,,0.6,0.6,,2,,"ANOVA, sigmoidal regressions"
+Profenofos-01,Markey et al. ,2007,AMIL,"Pacific/GBR 
+North-Central",Lab,Profenofos,0.1 - 300,Short,,SE,LOEC,,0.3,0.3,,,,"ANOVA, sigmoidal regressions"
+Simazine-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Simazine,"0.2 - 1,000",Short,10,EQY,EC25,,55,55,5,,,Linear interpolation method
+Simazine-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Simazine,"0.2 - 1,000",Short,10,EQY,EC50,,150,150,7,,,Linear interpolation method
+Simazine-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Simazine,"0.2 - 1,000",Short,10,EQY,NOEC,,10,10,,,,Linear interpolation method
+Simazine-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Simazine,"0.2 - 1,000",Short,10,EQY,LOEC,,30,30,,,,Linear interpolation method
+TBT-02,Negri and Heyward ,2001,AMIL,Pacific/Ningaloo Reef,Lab,TBT,"0.3 - 3,228",Short,,FS,EC50,,200,200,,31,,three-parameter sigmoidal equation in Sigmaplot
+TBT-02,Negri and Heyward ,2001,AMIL,Pacific/Ningaloo Reef,Lab,TBT,"0.3 - 3,228",Short,,SE,EC50,,2,2,,0.3,,three-parameter sigmoidal equation in Sigmaplot
+Tebuthiuron-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Tebuthiuron,"0.2 - 1,000",Short,10,EQY,EC25,,60,60,2.5,,,Linear interpolation method
+Tebuthiuron-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Tebuthiuron,"0.2 - 1,000",Short,10,EQY,EC50,,175,175,7,,,Linear interpolation method
+Tebuthiuron-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Tebuthiuron,"0.2 - 1,000",Short,10,EQY,NOEC,,3,3,,,,Linear interpolation method
+Tebuthiuron-01,Jones and Kerswell,2003,"AMUR, SHYS",Pacific/GBR South,Lab,Tebuthiuron,"0.2 - 1,000",Short,10,EQY,LOEC,,10,10,,,,Linear interpolation method
+Vanadium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Vanadium,"1.82 - 9,380",Short,,FS,EC10,,2717,2717,,,2492–2878,Sigmoidal regressions
+Vanadium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Vanadium,"1.82 - 9,380",Short,,FS,EC50,,2884,2884,,,2681–3068,Sigmoidal regressions
+Vanadium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Vanadium,"1.82 - 9,380",Short,,SE,EC10,,463,463,,,353–576,Sigmoidal regressions
+Vanadium-01,Negri et al.,2011,ATEN,"Pacific/GBR 
+North-Central",Lab,Vanadium,"1.82 - 9,380",Short,,SE,EC50,,675,675,,,601–774,Sigmoidal regressions
+Zinc-01,"Reichelt-Brushett 
+and Harrison ",2005,ATEN,Pacific/GBR South,Lab,Zinc,"35 - 5,000",Short,,FS,NOEC,,<10,9,,,,Spearman‚ÄìKarber for estimating median lethal concentrations from toxicity tests (for EC50 = concentration that reduces fert rate by 50% of control fertilization rate) & NOEC = high concentration with no effect
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
